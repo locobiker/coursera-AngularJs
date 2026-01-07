@@ -18,6 +18,18 @@ function Config(ShoppingListProvider) {
       {
         name: "Pizza",
         quantity: 2
+      },
+      {
+        name: "Beer",
+        quantity: 3
+      },
+      {
+        name: "Steak",
+        quantity: 2
+      },
+      {
+        name: "Apples",
+        quantity: 10
       }
     ];
 }
